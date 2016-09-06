@@ -1,2 +1,2 @@
 # EllyCSS
-global css summaried by eleanor
+global css summarized by eleanor
